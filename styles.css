@@ -1,0 +1,44 @@
+body{
+  background-color: #f6eef4;
+  /* background-color: black; */
+}
+.pinkhead{
+  background-color: #be5985;
+}
+h1,h2{
+  color: #be5985 !important;
+}
+.card-body p{
+  color: #52525b;
+}
+.icon{
+  height: 3rem;
+  width: 3rem;
+}
+.edu-sect{
+  background-color: white;
+}
+.skill-set{
+  background-color: white;
+  border-radius: 10px;
+
+
+}
+
+.edu-title{
+  color: #be5985;
+}
+.edu-name{
+  color: #52525b;
+}
+footer{
+  background-color: #be5985;
+  color: beige;
+}
+div>h4{
+  color: #be5985;
+  font-weight: bold;
+}
+.my-icon{
+  font-size: 3rem;
+}
